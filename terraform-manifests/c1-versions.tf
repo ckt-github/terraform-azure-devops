@@ -27,4 +27,5 @@ provider "azurerm" {
 }
 
 # Terraform CICD - First Run
+# Terraform CICD - second Run to test stages
 
