@@ -28,4 +28,5 @@ provider "azurerm" {
 
 # Terraform CICD - First Run
 # Terraform CICD - second Run to test stages
+# Terraform CICD - commit to test the disabled CICD pripeline
 
